@@ -28,17 +28,17 @@ Para os clientes que ja possuem algum sistema essa plataforma de agendamento pod
 ![image](https://github.com/user-attachments/assets/e85da87c-196a-4c3a-85ac-99c3262d8e78)
 
 
-
-
-
-
 ## O que esperamos aprender com esse projeto? 
-xxxxxxxxxx
-* **xxx**: xxxx
-* **xxxx**: xxx
+
+Para que a solução realmente seja aderente para os clientes vamos ter que entender como torna-la parametrizavel o suficiente para atender os diversos requisitos e modelos de cada destinatario.
+
+* Entender quais são as principais regras de agendamento comum a todos os clientes
+* Entender quais fluxos de aprovações que são necessarios
+* Tipos de integrações que serão necessarias para manter um "calendario" atualizado e disponivel para todos os envolvidos
+* Viabilidade de um aplicativo para o motorista sendo diferente do app que ele utiliza para entregas/coletas.
 
 ## Que perguntas precisamos que sejam respondidas?
-xxxxxxxxxx
+
 * **xxx**: xxxx
 * **xxxx**: xxx
 
@@ -58,14 +58,21 @@ xxxxxxxxxx
 * **xxxx**: xxx
 
 ## Quem são as partes interessadas?  
-xxxxxxxxxx
-* **xxx**: xxxx
-* **xxxx**: xxx
+
+* **Embarcadores**: São industrias, distribuidores ou comerciantes que precisam entregar seu produto para clientes que possuem restrições para entrega exigindo uma data e horario previamente agendado.
+* **Transportadores**: Responsavel pelo transporte das mercadorias as transportadoras precisam de um meio para organizar as agendas de entrega, essa informações influenciam diretamente no planejamento de transferencias e entregas mais eficientes.
+* **Motoristas**: Responsavel por entregar de fato, quando não agendado corretamente pode acarretar em tempos de espera, recusa e atrasos em outras entregas. Afeta na performance do motorista.
+* **Destinatarios**: Eles que de fato recebem a carga e precisam que aconteça no momento certo para ter as pessoas e espaço disponivel para armazenamento da carga que será recebida.
+
+
 
 ## O que eles esperam ganhar?
-xxxxxxxxxx
-* **xxx**: xxxx
-* **xxxx**: xxx
+
+* **Embarcadores**: Garantir entrega correta dos seus produtos, com isso buscar alguns beneficios: Fidelidade, satisfação dos clientes, recebimento no prazo correto das faturas.
+* **Transportadores**: Ter de forma mais assertiva a data esperada para entrega, garantir que ira atender as exigencias dos destinatarios. Otimizar planejamento das entregas e reduzir custos de tentativas de entrega.
+* **Motoristas**: Ser recebido e conseguir entregar a carga dentro do prazo esperado.
+* **Destinatarios**: conseguir receber as cargas de forma organizada, garantindo os recursos necessarios (pessoas, espaço, tempo).
+
 
 ## Quem são os usuários?
 xxxxxxxxxx
