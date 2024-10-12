@@ -39,8 +39,13 @@ Para que a solução realmente seja aderente para os clientes vamos ter que ente
 
 ## Que perguntas precisamos que sejam respondidas?
 
-* **xxx**: xxxx
-* **xxxx**: xxx
+* Como você gerencia atualmente os agendamentos de entregas?
+* Quais ferramentas ou sistemas você usa para agendar e monitorar entregas?
+* Quais são os maiores desafios que você enfrenta no agendamento de entregas?
+* Como os conflitos de agendamento afetam suas operações?
+* Quais funcionalidades você gostaria de ver em uma nova plataforma de agendamento?
+* Como você lida com mudanças de última hora nos agendamentos?
+* Que tipo de relatórios ou insights você considera mais úteis para melhorar a eficiência operacional?
 
 ## Quais são os nossos principais riscos?
 xxxxxxxxxx
@@ -75,14 +80,24 @@ xxxxxxxxxx
 
 
 ## Quem são os usuários?
-xxxxxxxxxx
-* **xxx**: xxxx
-* **xxxx**: xxx
 
+* CS Transportadora
+* Gerente de Operações de Transportadora
+* Coordenador de Logística do Cliente (embarcador)
+* Coordenador de Logística do Cliente (destinatario)
+* Executivo de Vendas (embarcador)
+* Executivo de Vendas (Transportador)
+* Coordenador de Logística do Cliente (Destinatario)
+
+
+  
 ## O que eles estão tentando realizar? 
-xxxxxxxxxx
-* **xxx**: xxxx
-* **xxxx**: xx
+
+* **Gerente de Operações de Transportadora**: Gera relatórios de todos os agendamentos acompanha eficiencia de entregas agendadas.
+* **CS Transportadora**: gera agendamentos de entrega, acompanha aceite/recusa dos destinatarios, garante que tenha documentação necessaria.
+* **Coordenador de Logística do Cliente (embarcador)**: Agendar as entregas com as transportadoras, acompanhar eficiencia de entregas agendadas.
+* **Executivo de Vendas**: Acompanhar eficiencia de entregas agendadas.
+* **Coordenador de Logística do Cliente (Destinatario)**: Mantem calendario atualizado, aceita agendamento sugerido por embarcadores e transportadores.
 
 
 ## Qual o pior que pode acontecer?
