@@ -49,8 +49,10 @@ Para que a solução realmente seja aderente para os clientes vamos ter que ente
 
 ## Quais são os nossos principais riscos?
 xxxxxxxxxx
-* **xxx**: xxxx
-* **xxxx**: xxx
+* **Adoção da Solução**: resistência dos clientes e transportadores em adotar uma nova plataforma.
+* **Integração com Sistemas Existentes**: Dificuldade em integrar a nova solução com os diversos sistemas já utilizados pelos clientes.
+* **Escalabilidade**: A capacidade da solução para escalar caso tenha aderência para redes grandes;.
+* **Segurança de Dados**: Garantir a segurança e privacidade dos dados envolvidos no processo de agendamento, cargas visadas podem ser comprometidas se a plataforma não for segura.
 
 ## Crie um plano para aprender o que precisamos para responder a perguntas específicas.
 xxxxxxxxxx
@@ -101,14 +103,16 @@ xxxxxxxxxx
 
 
 ## Qual o pior que pode acontecer?
-xxxxxxxxxx
-* **xxx**: xxxx
-* **xxxx**: xxx
+
+* **Falha na Adoção**: A solução não ser adotada pelos usuários, resultando em desperdício de recursos e tempo.
+* **Problemas de Integração**: Dificuldades técnicas na integração com sistemas existentes, causando parada nas operações.
+* **Vulnerabilidades de Segurança**: vazamento de informações criticas (ex: Cargas visadas)
+* **VCustos Elevados**: Custos de manutenção e suporte excederem as previsões, tornando a solução financeiramente inviável
+
 
 ## Desenhe uma arquitetura (Modelo Freeform - Versão inicial);
-xxxxxxxxxx
-* **xxx**: xxxx
-* **xxxx**: xxx
+
+
 
 ## Faça uma descrição de cada um dos componentes que você desenhou;
 xxxxxxxxxx
@@ -177,7 +181,10 @@ xxxxxxxxxx
 
 ## Desenhe 3 Arquiteturas com o projeto que você desenvolveu na aula em cada uma das camadas do C4;   (Subir somente a Imagem jpg/jpeg)
 xxxxxxxxxx
-* **Nível Contexto**: xxxx
+* **Nível Contexto**: 
+![image](https://github.com/user-attachments/assets/a3a74cc9-8879-4685-97ba-56ffdf7a3eca)
+
+
 * **Nível Container**: xxx
 * **Nível Componente**: xxx
   
