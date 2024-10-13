@@ -168,7 +168,7 @@ Um dos componentes é o motor de agendamentos, ele poderia se caracterizar como 
 
 ## Qual é o Metamodelo?
 
-
+O metamodelo é um modelo abstrato que define a estrutura, semântica e restrições de uma família de modelos. Ele descreve os componentes principais e suas interações em um nível alto de abstração.
 
 ## Pode ser discernido no diagrama único?
 
