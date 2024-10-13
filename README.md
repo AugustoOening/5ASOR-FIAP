@@ -115,7 +115,9 @@ Para que a solução realmente seja aderente para os clientes vamos ter que ente
 
 ## Desenhe uma arquitetura (Modelo Freeform - Versão inicial);
 
-![image](https://github.com/user-attachments/assets/52408f6d-e39e-4e4a-8a43-d2abcac9f12c)
+
+
+![image](https://github.com/user-attachments/assets/75fc0131-5072-467c-aa07-2cb457e9a6f9)
 
 
 ## Faça uma descrição de cada um dos componentes que você desenhou;
@@ -209,16 +211,19 @@ xxxxxxxxxx
 ## Desenhe 3 Arquiteturas com o projeto que você desenvolveu na aula em cada uma das camadas do C4;   (Subir somente a Imagem jpg/jpeg)
 
 * **Nível Contexto**: 
-![image](https://github.com/user-attachments/assets/a3a74cc9-8879-4685-97ba-56ffdf7a3eca)
+
+![image](https://github.com/user-attachments/assets/89a998a2-0927-40d7-b78b-dfdaeeee790b)
 
 
 * **Nível Container**:
 
-![image](https://github.com/user-attachments/assets/1678dd1c-8a6a-4367-b3e3-69decc38c4d2)
+![image](https://github.com/user-attachments/assets/4f39fdf9-4261-4373-a491-b19a993ba79a)
+
 
 * **Nível Componente**: 
 
-![image](https://github.com/user-attachments/assets/77311472-e1e8-4b32-a812-a92c3246e9b0)
+![image](https://github.com/user-attachments/assets/d8c06240-6ea2-4ae4-9d01-7d8696b1fa08)
+
 
 ## Video
 
