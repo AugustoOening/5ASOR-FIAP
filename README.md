@@ -180,16 +180,22 @@ xxxxxxxxxx
 * **xxxx**: xxx
 
 ## Desenhe 3 Arquiteturas com o projeto que você desenvolveu na aula em cada uma das camadas do C4;   (Subir somente a Imagem jpg/jpeg)
-xxxxxxxxxx
+
 * **Nível Contexto**: 
 ![image](https://github.com/user-attachments/assets/a3a74cc9-8879-4685-97ba-56ffdf7a3eca)
 
 
-* **Nível Container**: xxx
-* **Nível Componente**: xxx
-  
+* **Nível Container**:
+
+![image](https://github.com/user-attachments/assets/1678dd1c-8a6a-4367-b3e3-69decc38c4d2)
+
+* **Nível Componente**: 
+
+![image](https://github.com/user-attachments/assets/77311472-e1e8-4b32-a812-a92c3246e9b0)
+
 ## Video
-xxxxxxxxxx
+
+
 * **xxx**: xxxx
 * **xxxx**: xxx
 
