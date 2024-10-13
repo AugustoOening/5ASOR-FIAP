@@ -154,9 +154,9 @@ Para que a solução realmente seja aderente para os clientes vamos ter que ente
 ## Sobre o que o diagrama ajuda você a raciocinar/pensar?
 
 
-Fluxo de Dados: Como os dados fluem entre diferentes componentes do sistema.
-Interação entre Componentes: Como cada componente interage e depende dos outros.
-Pontos de Integração: Identificação de onde e como a solução se integrará com sistemas externos.
+* Fluxo de Dados: Como os dados fluem entre diferentes componentes do sistema.
+* Interação entre Componentes: Como cada componente interage e depende dos outros.
+* Pontos de Integração: Identificação de onde e como a solução se integrará com sistemas externos.
 
 ## Quais são os padrões essenciais no diagrama? 
 xxxxxxxxxx
