@@ -159,54 +159,48 @@ Para que a solução realmente seja aderente para os clientes vamos ter que ente
 * Pontos de Integração: Identificação de onde e como a solução se integrará com sistemas externos.
 
 ## Quais são os padrões essenciais no diagrama? 
-xxxxxxxxxx
-* **xxx**: xxxx
-* **xxxx**: xxx
+
+Inicialmente apresenta um padrão de Camadas, temos (Aprentação, APlicação, API e Bando de dados)
 
 ## Existem padrões ocultos?
-xxxxxxxxxx
-* **xxx**: xxxx
-* **xxxx**: xxx
+
+Um dos componentes é o motor de agendamentos, ele poderia se caracterizar como um microserviço sendo chamado da aplicação em si e tambem das integrações com sistemas terceiros.
 
 ## Qual é o Metamodelo?
-xxxxxxxxxx
-* **xxx**: xxxx
-* **xxxx**: xxx
+
+
 
 ## Pode ser discernido no diagrama único?
-xxxxxxxxxx
-* **xxx**: xxxx
-* **xxxx**: xxx
+
+Sim, conforme diagrama apresentado para ideia inicial do projeto.
 
 ## O diagrama está completo?
-xxxxxxxxxx
-* **xxx**: xxxx
-* **xxxx**: xxx
+
+O diagrama  apresenta de forma simples todo desenho esperado para aplciação, para entendimento esta completo. Para desenvolvimento precisa de mais detalhes o uso do C4 (detalhado mais a frente) pode clarificar mais duvidas.
+Foi abstraido do diagrama tambem critérios de segurança que pode ser refinado.
 
 ## Poderia ser simplificado e ainda assim ser eficaz?
-xxxxxxxxxx
-* **xxx**: xxxx
-* **xxxx**: xxx
+
+O modelo apresentado como FreeForm  resume em um diagrama e parece ser suficiente para entendimento geral da solução.
 
 ## Houve alguma discussão importante que vocês tiveram como equipe?
-xxxxxxxxxx
-* **xxx**: xxxx
-* **xxxx**: xxx
+
+A principal discução gerou em torno do aplicativo mobile, sobre ter ou não e uso das mesmas APIs para comunicação. 
 
 ## Que decisões sua equipe teve dificuldade para tomar?
-xxxxxxxxxx
-* **xxx**: xxxx
-* **xxxx**: xxx
+
+* Tambem relacionado ao mobile: a pesquisa de mercado ainda precisa de mais detalhes para saber se faz sentido ter a aplicação movel, porque os motoristas ja usam outros aplicativos para monitoramento das entregas.
+* Estratégia de Integração: Como integrar de forma eficiente com os diversos sistemas existentes dos clientes.
 
 ## Que decisões foram tomadas sob incerteza?
-xxxxxxxxxx
-* **xxx**: xxxx
-* **xxxx**: xxx
+
+* Uso de banco NoSQL
+* Criar o APP motorista
+* Adoção do Usuário, Prever a aceitação e adoção da nova solução pelos usuários finais.
 
 ## Houve algum ponto de decisão sem retorno que o forçou a desistir de uma determinada escolha?
-xxxxxxxxxx
-* **xxx**: xxxx
-* **xxxx**: xxx
+
+Projeto não teve maturidade suficiente para chegar a um ponto sem retorno.
 
 ## Desenhe 3 Arquiteturas com o projeto que você desenvolveu na aula em cada uma das camadas do C4;   (Subir somente a Imagem jpg/jpeg)
 
