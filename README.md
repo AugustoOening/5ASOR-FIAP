@@ -1,6 +1,6 @@
 # IT_Architecture_Design-Styles - 5ASOR - Augusto Oening Costa
 Public
-
+https://github.com/AugustoOening/5ASOR-FIAP/edit/main/README.md
 
 
 ## Montar um Story Telling sobre o problema que você resolve e definir o tema (Verificar nos slides da aula 1 sobre os temas sugeridos).
